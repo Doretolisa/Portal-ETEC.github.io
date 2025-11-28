@@ -84,7 +84,7 @@ const cursos = [
         "Medição e instrumentação eletrônica",
         "Montagem e manutenção de placas"
       ],
-      matriz:""
+      matriz:"http://www.etelg.com.br/paginaete/cursos/Matriz%20Curricular%20Técnico%20em%20Eletrônica%20-%202º%20semestre%202024.pdf"
     },
     {
       id: 6,
@@ -136,7 +136,7 @@ const cursos = [
         "Indicadores de desempenho logístico",
         "Tecnologia aplicada à logística"
       ],
-      matriz:""
+      matriz:"http://www.etelg.com.br/paginaete/cursos/LOGÍSTICA.PDF"
     },
     {
       id: 9,
@@ -153,7 +153,7 @@ const cursos = [
         "Manutenção mecânica",
         "Segurança no trabalho"
       ],
-      matriz:""
+      matriz:"http://www.etelg.com.br/paginaete/cursos/2026_mc_mecanica_mtec_l14945_v2.pdf"
     },
     {
       id: 10,
@@ -187,7 +187,7 @@ const cursos = [
         "Educação ambiental",
         "Projetos de conservação"
       ],
-      matriz:""
+      matriz:"http://www.etelg.com.br/paginaete/cursos/2026_mc_meio_ambiente_mtec_l14945_v2.pdf"
     },
     {
       id: 12,
@@ -221,7 +221,7 @@ const cursos = [
         "Noções de contabilidade",
         "Ética e cidadania organizacional"
       ],
-      matriz:""
+      matriz:"http://www.etelg.com.br/paginaete/cursos/2026_mc_secretariado_mtec_l14945_v2.pdf"
     },
     {
       id: 14,
@@ -242,23 +242,6 @@ const cursos = [
     },
     {
       id: 15,
-      nome: "Técnico em Comércio (Modular)",
-      descricao: "Formação técnica modular para atuar em empresas comerciais, vendas e atendimento corporativo.",
-      duracao: "3 semestres", // suposição  
-      img: "https://i.pinimg.com/736x/f4/cb/58/f4cb581e932c053445fc009f571ba6a7.jpg",
-      conteudo: [
-        "Técnicas de vendas",
-        "Marketing",
-        "Atendimento ao cliente",
-        "Gestão de estoque",
-        "Negociação",
-        "Comércio eletrônico",
-        "Logística básica"
-      ],
-      matriz:""
-    },
-    {
-      id: 16,
       nome: "Técnico em Contabilidade (Modular)",
       descricao: "Formação para atuar com rotinas contábeis, fiscais e financeiras em empresas e escritórios.",
       duracao: "3 semestres", // suposição  
@@ -272,27 +255,10 @@ const cursos = [
         "Auditoria básica",
         "Ética profissional"
       ],
-      matriz:""
+      matriz:"http://www.etelg.com.br/paginaete/cursos/CONTABILIDADE.PDF"
     },
     {
-      id: 17,
-      nome: "Técnico em Guia de Turismo",
-      descricao: "Formação para atuar no planejamento e condução de roteiros turísticos, atendimento e gestão de turismo.",
-      duracao: "3 semestres", // suposição  
-      img: "https://i.pinimg.com/736x/57/cf/71/57cf71c3955398e25d11dfe267d1d55c.jpg",
-      conteudo: [
-        "Geografia turística",
-        "História e cultura",
-        "Marketing turístico",
-        "Guiamento e condução de grupos",
-        "Legislação turística",
-        "Sustentabilidade no turismo",
-        "Planejamento de roteiros"
-      ],
-      matriz:""
-    },
-    {
-      id: 18,
+      id: 16,
       nome: "Técnico em Programação de Jogos Digitais",
       descricao: "Formação para desenvolver jogos para diferentes plataformas, com foco em lógica, design e interatividade.",
       duracao: "3 semestres", // conforme lista CPS para Jogos Digitais :contentReference[oaicite:8]{index=8}  
@@ -306,24 +272,7 @@ const cursos = [
         "Física para jogos",
         "Monetização e mercado de jogos"
       ],
-      matriz:""
-    },
-    {
-      id: 19,
-      nome: "Técnico em Transações Imobiliárias",
-      descricao: "Formação para atuar no mercado imobiliário, intermediação de imóveis, documentação e negociação.",
-      duracao: "3 semestres", // suposição similar a outros técnicos  
-      img: "https://i.pinimg.com/736x/1e/50/9d/1e509d84215ae9013852345e1d1177d9.jpg",
-      conteudo: [
-        "Documentação imobiliária",
-        "Negociação de imóveis",
-        "Avaliação de imóveis",
-        "Mercado imobiliário",
-        "Legislação imobiliária",
-        "Corretagem e vendas",
-        "Marketing imobiliário"
-      ],
-      matriz:""
+      matriz:"http://www.etelg.com.br/paginaete/cursos/PROGRAMAÇÃO%20DE%20JOGOS%20DIGITAIS.PDF"
     }
   ];
   
