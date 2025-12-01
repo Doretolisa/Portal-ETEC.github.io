@@ -29,7 +29,7 @@ O projeto funciona como um blog, onde qualquer pessoa — seja aluno da Etec ou 
 
 ---
 
-## 📥 Instalação (Opcional — caso o usuário queira rodar localmente)
+## 📥 Instalação
 
 ```bash
 # Clone este repositório
@@ -40,3 +40,38 @@ cd SEU-REPOSITORIO
 
 # Abra o arquivo principal
 start index.html
+```
+
+---
+
+## ✨ Funcionalidades
+
+- **📚 Visualização de projetos desenvolvidos pelos alunos**
+
+- **📰 Interface estilo blog**
+
+- **🏫 Divulgação de cursos e atividades**
+
+- **🌐 Acesso livre para qualquer visitante**
+
+- **📸 Conteúdo organizado e intuitivo**
+
+---
+
+## 👩‍💻 Autora
+
+Monalisa Doreto Alencar
+📧 Email: doretomonalisa@gmail.com
+
+---
+
+## 📝 Licença
+
+Este projeto é de uso aberto para fins educacionais.
+
+---
+
+## 🙏 Créditos
+
+Desenvolvido com inspiração na página oficial da Etec Lauro Gomes:
+http://www.etelg.com.br/
