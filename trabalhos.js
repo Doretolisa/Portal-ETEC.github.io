@@ -32,7 +32,7 @@ const trabalhos = [
         id: 5,
         titulo: "Projetos interdisciplinares apresentados pelas turmas 1R e 1S",
         tipo: "imagem",
-        imagem: "/src/projetos1R_1S-2025",
+        imagem: "/src/projetos1R_1S-2025.jpg",
         link: "http://www.etelg.com.br/paginaete/projetos1R_1S-2025.htm",
         legenda: "Projeto das turmas 1R e 1S",
     },
